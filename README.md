@@ -14,4 +14,4 @@ Our brand and trademark knowledge are collected by a diverse network: volunteers
 
 
 ## Share
-All data on the website is available through a specific interface. Using this Github page, we will share the most important and clear results with you.
+All data on the website is available through a specific interface, see [the dedicated data page on genericides.org](https://www.genericides.org/data). Using this Github page, we will share the most important and clear results with you.
