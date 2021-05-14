@@ -1,6 +1,6 @@
 # genericides.org
 
-At https://www.genericides.org/ we collect the brand names that have become a generic term for a kind of product or service. We investigate en document cases of trademark generalisation, trademark erosion, or genericide. Examples include [zoom](genericides.org/trademark/zoom), [escalator](https://genericides.org/trademark/escalator), and [appstore](https://genericides.org/index.php/trademark/appstore). The [full list of trademarks that become generic](https://genericides.org/genericides-list).
+At https://www.genericides.org/ we collect the brand names that have become a generic term for a kind of product or service. We investigate en document cases of trademark generalisation, trademark erosion, or genericide. Examples include [zoom](https://www.genericides.org/trademark/zoom), [escalator](https://www.genericides.org/trademark/escalator), and [appstore](https://genericides.org/trademark/appstore). The [full list of trademarks that become generic](https://www.genericides.org/genericides-list).
 
 ## Our goal
 To reach our goal, we will:
