@@ -11,6 +11,7 @@ To reach our goal, we will:
 
 ## How
 Our brand and trademark knowledge are collected by a diverse network: volunteers from countries in different continents, as well as experts and professionals in the field.
+Do you want to cooperate with your time or your project? Let me know using the [contact forum](https://www.genericides.org/contact).
 
 
 ## Share
